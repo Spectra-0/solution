@@ -1,0 +1,12 @@
+/* Стили для секции контента */
+.content-section {
+  background-color: #d1d1d1;
+  height: 1000px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* Чтобы меню в мобильной версии было на всю ширину */
+.navbar-collapse {
+  background-color: #cccccc;
+}
